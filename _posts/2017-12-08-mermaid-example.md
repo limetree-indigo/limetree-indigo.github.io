@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: Mermaid example
 categories: example

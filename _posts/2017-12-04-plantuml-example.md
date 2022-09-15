@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: Plantuml example
 categories: example
